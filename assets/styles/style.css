@@ -6,6 +6,14 @@
     display: flex;
 }
 
+.menu li {
+    padding: 10px;
+    width: 200px;
+    list-style: none;
+    background-color:grey;
+    position: relative;
+    border: 1px solid black;
+}
 
 .menu a {
     color: black;
